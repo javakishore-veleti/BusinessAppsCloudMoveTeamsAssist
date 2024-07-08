@@ -37,6 +37,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    "migration_assistant",
+    "migration_content_publisher"
 ]
 
 MIDDLEWARE = [
