@@ -14,6 +14,8 @@ source ~/runtime_data/python_venvs/BusinessAppsCloudMoveTeamsAssist/bin/activate
 # Observe dot in the end of below command
 django-admin startproject BusinessAppsCloudMoveTeamsAssist .
 
+mkdir fixtures
+
 python manage.py startapp migration_assistant
 mkdir -p migration_assistant/migrations
 touch migration_assistant/migrations/__init__.py

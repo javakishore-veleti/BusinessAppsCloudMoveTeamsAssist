@@ -1,0 +1,72 @@
+[
+    {
+        "model": "migration_content_publisher.apppurpose",
+        "pk": "b4d5d1a8-32ef-4b71-bc10-1234567890ab",
+        "fields": {
+            "name": "Multimodal",
+            "description": "Models that handle and integrate multiple types of data modalities.",
+            "created_at": "2024-01-01T00:00:00Z",
+            "updated_at": "2024-01-01T00:00:00Z"
+        }
+    },
+    {
+        "model": "migration_content_publisher.apppurpose",
+        "pk": "a4d5d1a8-32ef-4b71-bc10-1234567890ac",
+        "fields": {
+            "name": "Computer Vision",
+            "description": "Models for processing and analyzing visual data.",
+            "created_at": "2024-01-01T00:00:00Z",
+            "updated_at": "2024-01-01T00:00:00Z"
+        }
+    },
+    {
+        "model": "migration_content_publisher.apppurpose",
+        "pk": "c4d5d1a8-32ef-4b71-bc10-1234567890ad",
+        "fields": {
+            "name": "Natural Language Processing",
+            "description": "Models for processing and understanding natural language data.",
+            "created_at": "2024-01-01T00:00:00Z",
+            "updated_at": "2024-01-01T00:00:00Z"
+        }
+    },
+    {
+        "model": "migration_content_publisher.apppurpose",
+        "pk": "d4d5d1a8-32ef-4b71-bc10-1234567890ae",
+        "fields": {
+            "name": "Audio",
+            "description": "Models for processing and analyzing audio data.",
+            "created_at": "2024-01-01T00:00:00Z",
+            "updated_at": "2024-01-01T00:00:00Z"
+        }
+    },
+    {
+        "model": "migration_content_publisher.apppurpose",
+        "pk": "e4d5d1a8-32ef-4b71-bc10-1234567890af",
+        "fields": {
+            "name": "Tabular",
+            "description": "Models for processing and analyzing tabular data.",
+            "created_at": "2024-01-01T00:00:00Z",
+            "updated_at": "2024-01-01T00:00:00Z"
+        }
+    },
+    {
+        "model": "migration_content_publisher.apppurpose",
+        "pk": "f4d5d1a8-32ef-4b71-bc10-1234567890ag",
+        "fields": {
+            "name": "Reinforcement Learning",
+            "description": "Models for learning through interactions with the environment.",
+            "created_at": "2024-01-01T00:00:00Z",
+            "updated_at": "2024-01-01T00:00:00Z"
+        }
+    },
+    {
+        "model": "migration_content_publisher.apppurpose",
+        "pk": "g4d5d1a8-32ef-4b71-bc10-1234567890ah",
+        "fields": {
+            "name": "Other",
+            "description": "Other types of models not covered by the above categories.",
+            "created_at": "2024-01-01T00:00:00Z",
+            "updated_at": "2024-01-01T00:00:00Z"
+        }
+    }
+]

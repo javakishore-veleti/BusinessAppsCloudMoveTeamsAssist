@@ -1,0 +1,542 @@
+[
+    {
+        "model": "migration_content_publisher.learningcategory",
+        "pk": "1b4d5d1a8-32ef-4b71-bc10-1234567890ab",
+        "fields": {
+            "category_purpose": "b4d5d1a8-32ef-4b71-bc10-1234567890ab",
+            "category_name": "Image-Text-to-Text",
+            "created_by": "system",
+            "updated_by": "system",
+            "created_at": "2024-01-01T00:00:00Z",
+            "updated_at": "2024-01-01T00:00:00Z"
+        }
+    },
+    {
+        "model": "migration_content_publisher.learningcategory",
+        "pk": "2b4d5d1a8-32ef-4b71-bc10-1234567890ac",
+        "fields": {
+            "category_purpose": "b4d5d1a8-32ef-4b71-bc10-1234567890ab",
+            "category_name": "Visual Question Answering",
+            "created_by": "system",
+            "updated_by": "system",
+            "created_at": "2024-01-01T00:00:00Z",
+            "updated_at": "2024-01-01T00:00:00Z"
+        }
+    },
+    {
+        "model": "migration_content_publisher.learningcategory",
+        "pk": "3b4d5d1a8-32ef-4b71-bc10-1234567890ad",
+        "fields": {
+            "category_purpose": "b4d5d1a8-32ef-4b71-bc10-1234567890ab",
+            "category_name": "Document Question Answering",
+            "created_by": "system",
+            "updated_by": "system",
+            "created_at": "2024-01-01T00:00:00Z",
+            "updated_at": "2024-01-01T00:00:00Z"
+        }
+    },
+    {
+        "model": "migration_content_publisher.learningcategory",
+        "pk": "4b4d5d1a8-32ef-4b71-bc10-1234567890ae",
+        "fields": {
+            "category_purpose": "a4d5d1a8-32ef-4b71-bc10-1234567890ac",
+            "category_name": "Depth Estimation",
+            "created_by": "system",
+            "updated_by": "system",
+            "created_at": "2024-01-01T00:00:00Z",
+            "updated_at": "2024-01-01T00:00:00Z"
+        }
+    },
+    {
+        "model": "migration_content_publisher.learningcategory",
+        "pk": "5b4d5d1a8-32ef-4b71-bc10-1234567890af",
+        "fields": {
+            "category_purpose": "a4d5d1a8-32ef-4b71-bc10-1234567890ac",
+            "category_name": "Image Classification",
+            "created_by": "system",
+            "updated_by": "system",
+            "created_at": "2024-01-01T00:00:00Z",
+            "updated_at": "2024-01-01T00:00:00Z"
+        }
+    },
+    {
+        "model": "migration_content_publisher.learningcategory",
+        "pk": "6b4d5d1a8-32ef-4b71-bc10-1234567890ag",
+        "fields": {
+            "category_purpose": "a4d5d1a8-32ef-4b71-bc10-1234567890ac",
+            "category_name": "Object Detection",
+            "created_by": "system",
+            "updated_by": "system",
+            "created_at": "2024-01-01T00:00:00Z",
+            "updated_at": "2024-01-01T00:00:00Z"
+        }
+    },
+    {
+        "model": "migration_content_publisher.learningcategory",
+        "pk": "7b4d5d1a8-32ef-4b71-bc10-1234567890ah",
+        "fields": {
+            "category_purpose": "a4d5d1a8-32ef-4b71-bc10-1234567890ac",
+            "category_name": "Image Segmentation",
+            "created_by": "system",
+            "updated_by": "system",
+            "created_at": "2024-01-01T00:00:00Z",
+            "updated_at": "2024-01-01T00:00:00Z"
+        }
+    },
+    {
+        "model": "migration_content_publisher.learningcategory",
+        "pk": "8b4d5d1a8-32ef-4b71-bc10-1234567890ai",
+        "fields": {
+            "category_purpose": "a4d5d1a8-32ef-4b71-bc10-1234567890ac",
+            "category_name": "Text-to-Image",
+            "created_by": "system",
+            "updated_by": "system",
+            "created_at": "2024-01-01T00:00:00Z",
+            "updated_at": "2024-01-01T00:00:00Z"
+        }
+    },
+    {
+        "model": "migration_content_publisher.learningcategory",
+        "pk": "9b4d5d1a8-32ef-4b71-bc10-1234567890aj",
+        "fields": {
+            "category_purpose": "a4d5d1a8-32ef-4b71-bc10-1234567890ac",
+            "category_name": "Image-to-Text",
+            "created_by": "system",
+            "updated_by": "system",
+            "created_at": "2024-01-01T00:00:00Z",
+            "updated_at": "2024-01-01T00:00:00Z"
+        }
+    },
+    {
+        "model": "migration_content_publisher.learningcategory",
+        "pk": "10b4d5d1a8-32ef-4b71-bc10-1234567890ak",
+        "fields": {
+            "category_purpose": "a4d5d1a8-32ef-4b71-bc10-1234567890ac",
+            "category_name": "Image-to-Image",
+            "created_by": "system",
+            "updated_by": "system",
+            "created_at": "2024-01-01T00:00:00Z",
+            "updated_at": "2024-01-01T00:00:00Z"
+        }
+    },
+    {
+        "model": "migration_content_publisher.learningcategory",
+        "pk": "11b4d5d1a8-32ef-4b71-bc10-1234567890al",
+        "fields": {
+            "category_purpose": "a4d5d1a8-32ef-4b71-bc10-1234567890ac",
+            "category_name": "Image-to-Video",
+            "created_by": "system",
+            "updated_by": "system",
+            "created_at": "2024-01-01T00:00:00Z",
+            "updated_at": "2024-01-01T00:00:00Z"
+        }
+    },
+    {
+        "model": "migration_content_publisher.learningcategory",
+        "pk": "12b4d5d1a8-32ef-4b71-bc10-1234567890am",
+        "fields": {
+            "category_purpose": "a4d5d1a8-32ef-4b71-bc10-1234567890ac",
+            "category_name": "Unconditional Image Generation",
+            "created_by": "system",
+            "updated_by": "system",
+            "created_at": "2024-01-01T00:00:00Z",
+            "updated_at": "2024-01-01T00:00:00Z"
+        }
+    },
+    {
+        "model": "migration_content_publisher.learningcategory",
+        "pk": "13b4d5d1a8-32ef-4b71-bc10-1234567890an",
+        "fields": {
+            "category_purpose": "a4d5d1a8-32ef-4b71-bc10-1234567890ac",
+            "category_name": "Video Classification",
+            "created_by": "system",
+            "updated_by": "system",
+            "created_at": "2024-01-01T00:00:00Z",
+            "updated_at": "2024-01-01T00:00:00Z"
+        }
+    },
+    {
+        "model": "migration_content_publisher.learningcategory",
+        "pk": "14b4d5d1a8-32ef-4b71-bc10-1234567890ao",
+        "fields": {
+            "category_purpose": "a4d5d1a8-32ef-4b71-bc10-1234567890ac",
+            "category_name": "Text-to-Video",
+            "created_by": "system",
+            "updated_by": "system",
+            "created_at": "2024-01-01T00:00:00Z",
+            "updated_at": "2024-01-01T00:00:00Z"
+        }
+    },
+    {
+        "model": "migration_content_publisher.learningcategory",
+        "pk": "15b4d5d1a8-32ef-4b71-bc10-1234567890ap",
+        "fields": {
+            "category_purpose": "a4d5d1a8-32ef-4b71-bc10-1234567890ac",
+            "category_name": "Zero-Shot Image Classification",
+            "created_by": "system",
+            "updated_by": "system",
+            "created_at": "2024-01-01T00:00:00Z",
+            "updated_at": "2024-01-01T00:00:00Z"
+        }
+    },
+    {
+        "model": "migration_content_publisher.learningcategory",
+        "pk": "16b4d5d1a8-32ef-4b71-bc10-1234567890aq",
+        "fields": {
+            "category_purpose": "a4d5d1a8-32ef-4b71-bc10-1234567890ac",
+            "category_name": "Mask Generation",
+            "created_by": "system",
+            "updated_by": "system",
+            "created_at": "2024-01-01T00:00:00Z",
+            "updated_at": "2024-01-01T00:00:00Z"
+        }
+    },
+    {
+        "model": "migration_content_publisher.learningcategory",
+        "pk": "17b4d5d1a8-32ef-4b71-bc10-1234567890ar",
+        "fields": {
+            "category_purpose": "a4d5d1a8-32ef-4b71-bc10-1234567890ac",
+            "category_name": "Zero-Shot Object Detection",
+            "created_by": "system",
+            "updated_by": "system",
+            "created_at": "2024-01-01T00:00:00Z",
+            "updated_at": "2024-01-01T00:00:00Z"
+        }
+    },
+    {
+        "model": "migration_content_publisher.learningcategory",
+        "pk": "18b4d5d1a8-32ef-4b71-bc10-1234567890as",
+        "fields": {
+            "category_purpose": "a4d5d1a8-32ef-4b71-bc10-1234567890ac",
+            "category_name": "Text-to-3D",
+            "created_by": "system",
+            "updated_by": "system",
+            "created_at": "2024-01-01T00:00:00Z",
+            "updated_at": "2024-01-01T00:00:00Z"
+        }
+    },
+    {
+        "model": "migration_content_publisher.learningcategory",
+        "pk": "19b4d5d1a8-32ef-4b71-bc10-1234567890at",
+        "fields": {
+            "category_purpose": "a4d5d1a8-32ef-4b71-bc10-1234567890ac",
+            "category_name": "Image-to-3D",
+            "created_by": "system",
+            "updated_by": "system",
+            "created_at": "2024-01-01T00:00:00Z",
+            "updated_at": "2024-01-01T00:00:00Z"
+        }
+    },
+    {
+        "model": "migration_content_publisher.learningcategory",
+        "pk": "20b4d5d1a8-32ef-4b71-bc10-1234567890au",
+        "fields": {
+            "category_purpose": "a4d5d1a8-32ef-4b71-bc10-1234567890ac",
+            "category_name": "Image Feature Extraction",
+            "created_by": "system",
+            "updated_by": "system",
+            "created_at": "2024-01-01T00:00:00Z",
+            "updated_at": "2024-01-01T00:00:00Z"
+        }
+    },
+    {
+        "model": "migration_content_publisher.learningcategory",
+        "pk": "21b4d5d1a8-32ef-4b71-bc10-1234567890av",
+        "fields": {
+            "category_purpose": "c4d5d1a8-32ef-4b71-bc10-1234567890ad",
+            "category_name": "Text Classification",
+            "created_by": "system",
+            "updated_by": "system",
+            "created_at": "2024-01-01T00:00:00Z",
+            "updated_at": "2024-01-01T00:00:00Z"
+        }
+    },
+    {
+        "model": "migration_content_publisher.learningcategory",
+        "pk": "22b4d5d1a8-32ef-4b71-bc10-1234567890aw",
+        "fields": {
+            "category_purpose": "c4d5d1a8-32ef-4b71-bc10-1234567890ad",
+            "category_name": "Token Classification",
+            "created_by": "system",
+            "updated_by": "system",
+            "created_at": "2024-01-01T00:00:00Z",
+            "updated_at": "2024-01-01T00:00:00Z"
+        }
+    },
+    {
+        "model": "migration_content_publisher.learningcategory",
+        "pk": "23b4d5d1a8-32ef-4b71-bc10-1234567890ax",
+        "fields": {
+            "category_purpose": "c4d5d1a8-32ef-4b71-bc10-1234567890ad",
+            "category_name": "Table Question Answering",
+            "created_by": "system",
+            "updated_by": "system",
+            "created_at": "2024-01-01T00:00:00Z",
+            "updated_at": "2024-01-01T00:00:00Z"
+        }
+    },
+    {
+        "model": "migration_content_publisher.learningcategory",
+        "pk": "24b4d5d1a8-32ef-4b71-bc10-1234567890ay",
+        "fields": {
+            "category_purpose": "c4d5d1a8-32ef-4b71-bc10-1234567890ad",
+            "category_name": "Question Answering",
+            "created_by": "system",
+            "updated_by": "system",
+            "created_at": "2024-01-01T00:00:00Z",
+            "updated_at": "2024-01-01T00:00:00Z"
+        }
+    },
+    {
+        "model": "migration_content_publisher.learningcategory",
+        "pk": "25b4d5d1a8-32ef-4b71-bc10-1234567890az",
+        "fields": {
+            "category_purpose": "c4d5d1a8-32ef-4b71-bc10-1234567890ad",
+            "category_name": "Zero-Shot Classification",
+            "created_by": "system",
+            "updated_by": "system",
+            "created_at": "2024-01-01T00:00:00Z",
+            "updated_at": "2024-01-01T00:00:00Z"
+        }
+    },
+    {
+        "model": "migration_content_publisher.learningcategory",
+        "pk": "26b4d5d1a8-32ef-4b71-bc10-1234567890ba",
+        "fields": {
+            "category_purpose": "c4d5d1a8-32ef-4b71-bc10-1234567890ad",
+            "category_name": "Translation",
+            "created_by": "system",
+            "updated_by": "system",
+            "created_at": "2024-01-01T00:00:00Z",
+            "updated_at": "2024-01-01T00:00:00Z"
+        }
+    },
+    {
+        "model": "migration_content_publisher.learningcategory",
+        "pk": "27b4d5d1a8-32ef-4b71-bc10-1234567890bb",
+        "fields": {
+            "category_purpose": "c4d5d1a8-32ef-4b71-bc10-1234567890ad",
+            "category_name": "Summarization",
+            "created_by": "system",
+            "updated_by": "system",
+            "created_at": "2024-01-01T00:00:00Z",
+            "updated_at": "2024-01-01T00:00:00Z"
+        }
+    },
+    {
+        "model": "migration_content_publisher.learningcategory",
+        "pk": "28b4d5d1a8-32ef-4b71-bc10-1234567890bc",
+        "fields": {
+            "category_purpose": "c4d5d1a8-32ef-4b71-bc10-1234567890ad",
+            "category_name": "Feature Extraction",
+            "created_by": "system",
+            "updated_by": "system",
+            "created_at": "2024-01-01T00:00:00Z",
+            "updated_at": "2024-01-01T00:00:00Z"
+        }
+    },
+    {
+        "model": "migration_content_publisher.learningcategory",
+        "pk": "29b4d5d1a8-32ef-4b71-bc10-1234567890bd",
+        "fields": {
+            "category_purpose": "c4d5d1a8-32ef-4b71-bc10-1234567890ad",
+            "category_name": "Text Generation",
+            "created_by": "system",
+            "updated_by": "system",
+            "created_at": "2024-01-01T00:00:00Z",
+            "updated_at": "2024-01-01T00:00:00Z"
+        }
+    },
+    {
+        "model": "migration_content_publisher.learningcategory",
+        "pk": "30b4d5d1a8-32ef-4b71-bc10-1234567890be",
+        "fields": {
+            "category_purpose": "c4d5d1a8-32ef-4b71-bc10-1234567890ad",
+            "category_name": "Text2Text Generation",
+            "created_by": "system",
+            "updated_by": "system",
+            "created_at": "2024-01-01T00:00:00Z",
+            "updated_at": "2024-01-01T00:00:00Z"
+        }
+    },
+    {
+        "model": "migration_content_publisher.learningcategory",
+        "pk": "31b4d5d1a8-32ef-4b71-bc10-1234567890bf",
+        "fields": {
+            "category_purpose": "c4d5d1a8-32ef-4b71-bc10-1234567890ad",
+            "category_name": "Fill-Mask",
+            "created_by": "system",
+            "updated_by": "system",
+            "created_at": "2024-01-01T00:00:00Z",
+            "updated_at": "2024-01-01T00:00:00Z"
+        }
+    },
+    {
+        "model": "migration_content_publisher.learningcategory",
+        "pk": "32b4d5d1a8-32ef-4b71-bc10-1234567890bg",
+        "fields": {
+            "category_purpose": "c4d5d1a8-32ef-4b71-bc10-1234567890ad",
+            "category_name": "Sentence Similarity",
+            "created_by": "system",
+            "updated_by": "system",
+            "created_at": "2024-01-01T00:00:00Z",
+            "updated_at": "2024-01-01T00:00:00Z"
+        }
+    },
+    {
+        "model": "migration_content_publisher.learningcategory",
+        "pk": "33b4d5d1a8-32ef-4b71-bc10-1234567890bh",
+        "fields": {
+            "category_purpose": "d4d5d1a8-32ef-4b71-bc10-1234567890ae",
+            "category_name": "Text-to-Speech",
+            "created_by": "system",
+            "updated_by": "system",
+            "created_at": "2024-01-01T00:00:00Z",
+            "updated_at": "2024-01-01T00:00:00Z"
+        }
+    },
+    {
+        "model": "migration_content_publisher.learningcategory",
+        "pk": "34b4d5d1a8-32ef-4b71-bc10-1234567890bi",
+        "fields": {
+            "category_purpose": "d4d5d1a8-32ef-4b71-bc10-1234567890ae",
+            "category_name": "Text-to-Audio",
+            "created_by": "system",
+            "updated_by": "system",
+            "created_at": "2024-01-01T00:00:00Z",
+            "updated_at": "2024-01-01T00:00:00Z"
+        }
+    },
+    {
+        "model": "migration_content_publisher.learningcategory",
+        "pk": "35b4d5d1a8-32ef-4b71-bc10-1234567890bj",
+        "fields": {
+            "category_purpose": "d4d5d1a8-32ef-4b71-bc10-1234567890ae",
+            "category_name": "Automatic Speech Recognition",
+            "created_by": "system",
+            "updated_by": "system",
+            "created_at": "2024-01-01T00:00:00Z",
+            "updated_at": "2024-01-01T00:00:00Z"
+        }
+    },
+    {
+        "model": "migration_content_publisher.learningcategory",
+        "pk": "36b4d5d1a8-32ef-4b71-bc10-1234567890bk",
+        "fields": {
+            "category_purpose": "d4d5d1a8-32ef-4b71-bc10-1234567890ae",
+            "category_name": "Audio-to-Audio",
+            "created_by": "system",
+            "updated_by": "system",
+            "created_at": "2024-01-01T00:00:00Z",
+            "updated_at": "2024-01-01T00:00:00Z"
+        }
+    },
+    {
+        "model": "migration_content_publisher.learningcategory",
+        "pk": "37b4d5d1a8-32ef-4b71-bc10-1234567890bl",
+        "fields": {
+            "category_purpose": "d4d5d1a8-32ef-4b71-bc10-1234567890ae",
+            "category_name": "Audio Classification",
+            "created_by": "system",
+            "updated_by": "system",
+            "created_at": "2024-01-01T00:00:00Z",
+            "updated_at": "2024-01-01T00:00:00Z"
+        }
+    },
+    {
+        "model": "migration_content_publisher.learningcategory",
+        "pk": "38b4d5d1a8-32ef-4b71-bc10-1234567890bm",
+        "fields": {
+            "category_purpose": "d4d5d1a8-32ef-4b71-bc10-1234567890ae",
+            "category_name": "Voice Activity Detection",
+            "created_by": "system",
+            "updated_by": "system",
+            "created_at": "2024-01-01T00:00:00Z",
+            "updated_at": "2024-01-01T00:00:00Z"
+        }
+    },
+    {
+        "model": "migration_content_publisher.learningcategory",
+        "pk": "39b4d5d1a8-32ef-4b71-bc10-1234567890bn",
+        "fields": {
+            "category_purpose": "e4d5d1a8-32ef-4b71-bc10-1234567890af",
+            "category_name": "Tabular Classification",
+            "created_by": "system",
+            "updated_by": "system",
+            "created_at": "2024-01-01T00:00:00Z",
+            "updated_at": "2024-01-01T00:00:00Z"
+        }
+    },
+    {
+        "model": "migration_content_publisher.learningcategory",
+        "pk": "40b4d5d1a8-32ef-4b71-bc10-1234567890bo",
+        "fields": {
+            "category_purpose": "e4d5d1a8-32ef-4b71-bc10-1234567890af",
+            "category_name": "Tabular Regression",
+            "created_by": "system",
+            "updated_by": "system",
+            "created_at": "2024-01-01T00:00:00Z",
+            "updated_at": "2024-01-01T00:00:00Z"
+        }
+    },
+    {
+        "model": "migration_content_publisher.learningcategory",
+        "pk": "41b4d5d1a8-32ef-4b71-bc10-1234567890bp",
+        "fields": {
+            "category_purpose": "e4d5d1a8-32ef-4b71-bc10-1234567890af",
+            "category_name": "Time Series Forecasting",
+            "created_by": "system",
+            "updated_by": "system",
+            "created_at": "2024-01-01T00:00:00Z",
+            "updated_at": "2024-01-01T00:00:00Z"
+        }
+    },
+    {
+        "model": "migration_content_publisher.learningcategory",
+        "pk": "42b4d5d1a8-32ef-4b71-bc10-1234567890bq",
+        "fields": {
+            "category_purpose": "f4d5d1a8-32ef-4b71-bc10-1234567890ag",
+            "category_name": "Reinforcement Learning",
+            "created_by": "system",
+            "updated_by": "system",
+            "created_at": "2024-01-01T00:00:00Z",
+            "updated_at": "2024-01-01T00:00:00Z"
+        }
+    },
+    {
+        "model": "migration_content_publisher.learningcategory",
+        "pk": "43b4d5d1a8-32ef-4b71-bc10-1234567890br",
+        "fields": {
+            "category_purpose": "f4d5d1a8-32ef-4b71-bc10-1234567890ag",
+            "category_name": "Robotics",
+            "created_by": "system",
+            "updated_by": "system",
+            "created_at": "2024-01-01T00:00:00Z",
+            "updated_at": "2024-01-01T00:00:00Z"
+        }
+    },
+    {
+        "model": "migration_content_publisher.learningcategory",
+        "pk": "44b4d5d1a8-32ef-4b71-bc10-1234567890bs",
+        "fields": {
+            "category_purpose": "g4d5d1a8-32ef-4b71-bc10-1234567890ah",
+            "category_name": "Graph Machine Learning",
+            "created_by": "system",
+            "updated_by": "system",
+            "created_at": "2024-01-01T00:00:00Z",
+            "updated_at": "2024-01-01T00:00:00Z"
+        }
+    },
+    {
+        "model": "migration_content_publisher.learningcategory",
+        "pk": "45b4d5d1a8-32ef-4b71-bc10-1234567890bt",
+        "fields": {
+            "category_purpose": "g4d5d1a8-32ef-4b71-bc10-1234567890ah",
+            "category_name": "Graph Machine Learning",
+            "created_by": "system",
+            "updated_by": "system",
+            "created_at": "2024-01-01T00:00:00Z",
+            "updated_at": "2024-01-01T00:00:00Z"
+        }
+    }
+]
