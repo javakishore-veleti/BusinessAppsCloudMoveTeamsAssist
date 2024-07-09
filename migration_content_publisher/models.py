@@ -238,6 +238,9 @@ class Content(models.Model):
         name='updated_by'
     )
 
+    content_file_path = models.CharField(max_length=255, name='content_file_path')
+    content_file_path_type = models.CharField(max_length=100, name='content_file_path_type')
+
     def __str__(self):
         return f"{self.content_author} - {self.content_feature} - {self.content_sub_feature}"
 

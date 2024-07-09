@@ -16,7 +16,10 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
+from django.urls import path, include
+from migration_content_publisher import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('', include('migration_content_publisher.urls')),  # Include your app's URLs
 ]

@@ -1,2 +1,9 @@
 Django==5.0.6
 django-cors-headers==4.0.0
+celery==5.2.7
+kombu==5.2.3
+fitz
+PyMuPDF
+redis
+torch
+transformers
